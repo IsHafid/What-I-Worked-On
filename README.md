@@ -5,30 +5,31 @@ The project that i worked on was about managing employees and their tasks with t
 this web application is developed by : Python , Django Framework, Bootstrap, ReportLab, AnyChart. 
 ## Filtering Data 
 A query with Context Processors that is used to filter employees Data to see the Managers and Staff.
-** Filterting By Role **
+
+**Filterting By Role**
 
 ![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/Filter%20BY%20Statut.PNG)
 
-** Filterting By Team **
+**Filterting By Team**
 
 ![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/Filter%20BY%20Team.PNG)
 
-** Filterting By Category **
+**Filterting By Category**
 
 ![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/Filter%20BY%20category.PNG)
 
-** This is The Home Page unfiltered ** 
+**This is The Home Page unfiltered** 
 
 ![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/All.PNG)
 
-** Here you can see the Managers
+**Here you can see the Managers**
 
 ![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/manager.PNG)
 
-** Here you can see the Staff members **
+**Here you can see the Staff members**
 
 ![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/staff.PNG)
 
-** Here you can see more info about the employees and their tasks assigned to ** 
+**Here you can see more info about the employees and their tasks assigned to** 
 
 ![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/user%20detail.PNG)
