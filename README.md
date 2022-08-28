@@ -116,7 +116,22 @@ To summarize our data , i used **ReportLab** a python library that generates PDF
 
 ![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/propdf.PNG)
 
+### Other Features
+Only a manager can see the other employees details.
 
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/Staff%20Home.PNG)
+
+You can't access the web application without login-in.
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/Ac.PNG)
+
+You can't access the old data of an employee that left the company.
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/Staff%20access%20by%20links.PNG)
+
+A task can be only updated by its own Developer.
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/TaskP.PNG)
 
 
 
