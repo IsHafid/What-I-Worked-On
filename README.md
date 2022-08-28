@@ -5,3 +5,4 @@ The project that i worked on was about managing employees and their tasks with t
 this web application is developed by : Python , Django Framework, Bootstrap, ReportLab, AnyChart. 
 ## Filtering Data 
 A query with Context Processors that is used to filter employees Data to see the Managers and Staff
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/Filter%20BY%20Statut.PNG)
