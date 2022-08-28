@@ -48,3 +48,27 @@ A query with Context Processors that is used to filter employees Data to see the
 
 ![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/upp.PNG)
 
+#### Adding Data
+**a List that a manager can add data to**
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/drop.PNG)
+
+**A Manager can add staff members**
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/Addu.PNG)
+
+**A Manager can add teams**
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/addte.PNG)
+
+**A Manager can add Projects**
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/addp.PNG)
+
+**A Manager can add Category**
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/addc.PNG)
+
+**A Manager can add Tasks**
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/addt.PNG)
