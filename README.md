@@ -36,6 +36,10 @@ A query with Context Processors that is used to filter employees Data to see the
 
 #### User Pages
 
+**Profile DropDown**
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/ProfileDropDown.PNG)
+
 **This is the login Page**
 
 ![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/Login.PNG)
@@ -47,6 +51,8 @@ A query with Context Processors that is used to filter employees Data to see the
 **A User can update his profile**
 
 ![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/upp.PNG)
+
+
 
 ### Adding Data
 **a List that a manager can add data to**
@@ -72,6 +78,11 @@ A query with Context Processors that is used to filter employees Data to see the
 **A Manager can add Tasks**
 
 ![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/addt.PNG)
+
+###Managing Projects
+
+
+
 
 ###Data Summary
 
