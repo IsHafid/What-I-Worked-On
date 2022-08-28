@@ -79,12 +79,12 @@ A query with Context Processors that is used to filter employees Data to see the
 
 ![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/addt.PNG)
 
-###Managing Projects
+### Managing Projects
 
 
 
 
-###Data Summary
+### Data Summary
 
 To summarize our data , i used **ReportLab** a python library that generates PDFs .
 
