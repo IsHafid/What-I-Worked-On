@@ -16,3 +16,19 @@ A query with Context Processors that is used to filter employees Data to see the
 ** Filterting By Category **
 
 ![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/Filter%20BY%20category.PNG)
+
+** This is The Home Page unfiltered ** 
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/All.PNG)
+
+** Here you can see the Managers
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/manager.PNG)
+
+** Here you can see the Staff members **
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/staff.PNG)
+
+** Here you can see more info about the employees and their tasks assigned to ** 
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/user%20detail.PNG)
