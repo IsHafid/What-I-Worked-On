@@ -134,7 +134,8 @@ A task can be only updated by its own Developer.
 ![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/TaskP.PNG)
 
 
-
+# Internship at EXPERTISE DATA , Morocco-Casablanca
+i worked as Data Analyst , and used Power BI to create my report and analysis. 
 
 
 
