@@ -72,3 +72,29 @@ A query with Context Processors that is used to filter employees Data to see the
 **A Manager can add Tasks**
 
 ![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/addt.PNG)
+
+###Data Summary
+
+To summarize our data , i used **ReportLab** a python library that generates PDFs .
+
+**Profile Data**
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/ppdf.PNG)
+
+**Tasks Data**
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/tpdf.PNG)
+
+**Projects Data**
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/propdf.PNG)
+
+
+
+
+
+
+
+
+
+
