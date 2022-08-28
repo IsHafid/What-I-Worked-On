@@ -81,6 +81,22 @@ A query with Context Processors that is used to filter employees Data to see the
 
 ### Managing Projects
 
+A project can be managed only by a manager , and the tasks can be managed by the Developer .
+I used a gantt graph using **AnyChart** to see the developement of a project and its tasks.
+A developer can't update other developers tasks.
+
+**Project Home Page**
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/projet.PNG)
+
+
+**Tasks of a Project**
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/task.PNG)
+
+**GANTT Graph**
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Alten%20Internship%20Project%20IMGs/Graph.PNG)
 
 
 
