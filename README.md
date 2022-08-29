@@ -150,7 +150,10 @@ Before starting my analysis , i checked if there errors or Empty values , and as
 ![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Expertise%20Data%20Internship%20Churn%20Rate%20Analysis/Datacheck.PNG)
 
 
+### Transform Data
 
+To make our data simple to run , we transformed some columns to make it easier for queries to read it
+Here we transformed Churned Column from 'Yes' 'No' to '1' '0'
 
-
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Expertise%20Data%20Internship%20Churn%20Rate%20Analysis/Transform.PNG)
 
