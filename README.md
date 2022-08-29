@@ -144,5 +144,13 @@ This Analysis is certified by DataCamp : https://www.datacamp.com/statement-of-a
 Dataset is from Databel, a company suffering from customer churn , so to understand why the customers are churning , i m gonna analyse the Dataset .
 
 
+### Datacheck
+Before starting my analysis , i checked if there errors or Empty values , and as we can see our data is valid .
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Expertise%20Data%20Internship%20Churn%20Rate%20Analysis/Datacheck.PNG)
+
+
+
+
 
 
