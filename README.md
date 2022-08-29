@@ -1,5 +1,12 @@
 # What-I-Worked-On
 this ReadME FILE is a summary about Personal / Internship / School Projects  that i worked on .
+
+###Internships:
+
+Web Developer For ALTEN Morocco,Fez
+
+Data Analyst For Expertise Data Morocco,Casablanca
+
 # Internship at ALTEN DELIVERY CENTER , Morocco-Fez
 The project that i worked on was about managing employees and their tasks with the project that they are working on.
 this web application is developed by : Python , Django Framework, Bootstrap, ReportLab, AnyChart. 
