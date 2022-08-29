@@ -137,6 +137,11 @@ A task can be only updated by its own Developer.
 # Internship at EXPERTISE DATA , Morocco-Casablanca
 i worked as Data Analyst , and used Power BI to create my report and analysis. 
 
+Since as intern they can't give you the data , i used a public Dataset and worked on 
+
+This Analysis is certified by DataCamp : https://www.datacamp.com/statement-of-accomplishment/course/4dbac83d8ef30ade9a2990dac12654810df584c1
+
+Dataset is from Databel, a company suffering from customer churn , so to understand why the customers are churning , i m gonna analyse the Dataset .
 
 
 
