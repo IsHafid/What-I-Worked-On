@@ -157,3 +157,11 @@ Here we transformed Churned Column from 'Yes' 'No' to '1' '0'
 
 ![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Expertise%20Data%20Internship%20Churn%20Rate%20Analysis/Transform.PNG)
 
+### Categorize the Data
+Our Data is so detailed ,so make it simple and easier to analyse , i created new columns with DAX queries to categorize the Data .
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Expertise%20Data%20Internship%20Churn%20Rate%20Analysis/Categ.PNG)
+
+
+
+
