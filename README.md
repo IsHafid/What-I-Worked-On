@@ -162,6 +162,50 @@ Our Data is so detailed ,so make it simple and easier to analyse , i created new
 
 ![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Expertise%20Data%20Internship%20Churn%20Rate%20Analysis/Categ.PNG)
 
+### Measures
 
+Using DAX , I created measure that will help me in analysis and calculations .
 
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Expertise%20Data%20Internship%20Churn%20Rate%20Analysis/Measures.PNG)
 
+### Analysis
+
+**Churn Demographic**
+As we can see the majority of the customers that churn are Seniors .
+
+The Churn Rate in Total is 26,86% due to 2 Main Reasons , The Competitor has better offers and devices
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Expertise%20Data%20Internship%20Churn%20Rate%20Analysis/ChurnDemographic.PNG)
+
+So as solution to Senior Customers Churn , we can make special offers for them to keep the trust with our Senior Client.
+
+**Groups And Categories**
+
+We can see that the main reason for our customer churn is the competitor with 44,82% of the reasons listed as category.
+
+the churn rate is high in the monthly contract with 46,29%. 
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Expertise%20Data%20Internship%20Churn%20Rate%20Analysis/G_Categories.PNG)
+
+As i said in the first dashboard , we need to make better offers by analyzing our competitor's offers , and to understand why our monthly subscription is working right we gonna analyse it later with more details.
+
+**Unlimited Data Plan**
+
+The highset churn that we have are people who uses unlimited data with less than 5GB and also subscribe/ not subscribers customers that using between 5 and 10GB or more are not satsified with offer.
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Expertise%20Data%20Internship%20Churn%20Rate%20Analysis/Unlimited_Data.PNG)
+
+so as solution we can make the internet speed much faster and more reliable and make it worth for an unlimited plan.
+
+**International Phone Calls Plan**
+
+We see that 71.19% of the customers who have a Premium international call subscription do not have active international calls, and 40.34% are active but not Premium so we can make an new subscription plan that can make us win the trust of this customers.
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Expertise%20Data%20Internship%20Churn%20Rate%20Analysis/International%20Calls.PNG)
+
+**Contract Type And Churn**
+
+We can see the longer the subscription the more customers churn for monthly subscription.
+we can make monthly rewards for those customers that can make us win their trust each month .
+
+![alt text](https://github.com/IsHafid/What-I-Worked-On/blob/main/Expertise%20Data%20Internship%20Churn%20Rate%20Analysis/Contract_Type.PNG)
