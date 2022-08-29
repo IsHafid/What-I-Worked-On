@@ -1,11 +1,11 @@
 # What-I-Worked-On
 this ReadME FILE is a summary about Personal / Internship / School Projects  that i worked on .
 
-###Internships:
+### Internships:
 
-Web Developer For ALTEN Morocco,Fez
+Web Developer For ALTEN Morocco,Fez 1st July->1st August 2021
 
-Data Analyst For Expertise Data Morocco,Casablanca
+Data Analyst For Expertise Data Morocco,Casablanca 1st July->1st September 2022
 
 # Internship at ALTEN DELIVERY CENTER , Morocco-Fez
 The project that i worked on was about managing employees and their tasks with the project that they are working on.
